@@ -59,24 +59,19 @@ Resultatet sparas i highscore.json och laddas automatiskt in nästa gång spelet
 
 🎲 Välkommen till SPEL 21! 🎲
 
-Vill du [r]ulla eller [s]tanna? r
+ Vill du [r]ulla eller [s]tanna? r
+ Du slog 5, total: 5
 
-Du slog 5, total: 5
+ Vill du [r]ulla eller [s]tanna? r
+ Du slog 6, total: 11
 
-Vill du [r]ulla eller [s]tanna? r
+ Vill du [r]ulla eller [s]tanna? s
+ Du stannade på 11
 
-Du slog 6, total: 11
+ Dealern slog [6, 5, 4, 3], total: 18
+ Dealern vinner.
 
-Vill du [r]ulla eller [s]tanna? s
+ Ställning: Spelare 0 - Dealer 1
+ Vill du spela igen? (j/n): n
 
-Du stannade på 11
-
-Dealern slog [6, 5, 4, 3], total: 18
-
-Dealern vinner.
-
-Ställning: Spelare 0 - Dealer 1
-
-Vill du spela igen? (j/n): n
-
-Spelet avslutas. Tack för att du spelade!
+ Spelet avslutas. Tack för att du spelade!

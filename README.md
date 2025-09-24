@@ -21,12 +21,11 @@ Målet är att komma så nära 21 poäng som möjligt utan att gå över.
 
 * Klona repot eller ladda ner koden:
 
-    git clone https://github.com/emre89/SPEL_21.git
+    git clone <https://github.com/emre89/SPEL_21.git>
 
 * Installera beroenden:
 
     pip install -r requirements.txt
-
 
 📌 Enda externa paketet som krävs är pytest (för tester). Själva spelet använder bara standardbiblioteket.
 
@@ -35,7 +34,6 @@ Målet är att komma så nära 21 poäng som möjligt utan att gå över.
 Från projektets rotmapp kör du:
 
     python -m game.game
-
 
 ⚠️ Viktigt: Kör alltid med -m, annars hittar Python inte paketet game.
 
@@ -57,7 +55,8 @@ Efter varje spelomgång uppdateras ställningen:
 Resultatet sparas i highscore.json och laddas automatiskt in nästa gång spelet startas.
 
 ## 📷 Exempel på körning
-🎲 Välkommen till Tärningsspelet 21! 🎲
+
+🎲 Välkommen till SPEL 21! 🎲
 
 Vill du [r]ulla eller [s]tanna? r
 Du slog 5, total: 5

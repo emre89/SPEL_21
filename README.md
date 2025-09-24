@@ -22,10 +22,8 @@ Målet är att komma så nära 21 poäng som möjligt utan att gå över.
 * Klona repot eller ladda ner koden:
 
     git clone https://github.com/emre89/SPEL_21.git
-    cd SPEL_21
 
-
-Installera beroenden:
+* Installera beroenden:
 
     pip install -r requirements.txt
 

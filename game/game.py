@@ -1,7 +1,7 @@
 import json
 import os
-from player import Player
-from dealer import Dealer
+from game.player import Player
+from game.dealer import Dealer
 
 HIGHSCORE_FILE = "highscore.json"
 

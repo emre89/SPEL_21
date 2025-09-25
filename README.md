@@ -21,8 +21,8 @@ Målet är att komma så nära 21 poäng som möjligt utan att gå över.
 
 Klona repot eller ladda ner koden:
 
-    git clone <https://github.com/emre89/SPEL_21.git>
-
+    git clone https://github.com/emre89/SPEL_21.git
+    cd SPEL_21
 
 Installera beroenden:
 
@@ -37,6 +37,11 @@ Från projektets rotmapp kör du:
     python -m game.game
 
 ⚠️ Viktigt: Kör alltid med -m, annars hittar Python inte paketet game.
+
+Kom ihåg att alltid aktivera .venv innan du kör spelet eller tester.
+
+Om pip inte känns igen, använd python -m pip istället.
+
 
 ## 🧪 Köra tester
 
